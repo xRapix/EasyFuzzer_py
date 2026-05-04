@@ -17,7 +17,7 @@ __EasyFuzzer__ is a Path Discovery Tool for pentesting websites.
 .exe version:
   * windows
 
-__Warning__: The .exe version can be detexcted as a virus by your anti-virus, so I recomend using the .py version
+__Warning__: The .exe version can be detected as a virus by your anti-virus, so I recomend using the .py version
 
 ## How to use
 1. Put your wordlist in the same folder as the script
