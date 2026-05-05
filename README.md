@@ -1,3 +1,7 @@
+
+⚠️THIS VERSION IS NO LONGER SUPPORTED. NEW C++ FASTER VERSION IS OUT NOW⚠️
+
+
 # EasyFuzzer
 
 __EasyFuzzer__ is a Path Discovery Tool for pentesting websites. 
