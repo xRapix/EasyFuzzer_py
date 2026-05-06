@@ -30,3 +30,5 @@ __Warning__: The .exe version can be detected as a virus by your anti-virus, so 
 4. Enter the wordlist name
 5. (optional) Enter Ignore codes
 6. (deafult curl/7.68.0) Enter User-Agent
+
+7. ⚠️USE THIS TOOL ONLY ON YOUR WEBSITES OR ON WEBSITES YOU GOT PERMISSION⚠️
